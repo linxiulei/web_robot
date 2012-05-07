@@ -1,0 +1,23 @@
+Metadata-Version: 1.1
+Name: pyxmpp2
+Version: 2.0alpha2
+Summary: XMPP/Jabber implementation for Python
+Home-page: https://github.com/Jajcus/pyxmpp2
+Author: Jacek Konieczny
+Author-email: jajcus@jajcus.net
+License: LGPL
+Download-URL: ('http://github.com/downloads/Jajcus/pyxmpp2/pyxmpp2-2.0alpha2.tar.gz',)
+Description: UNKNOWN
+Platform: UNKNOWN
+Classifier: Development Status :: 3 - Alpha
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: GNU Library or Lesser General Public License (LGPL)
+Classifier: Operating System :: POSIX
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 2.7
+Classifier: Programming Language :: Python :: 3.2
+Classifier: Topic :: Communications
+Classifier: Topic :: Communications :: Chat
+Classifier: Topic :: Internet
+Classifier: Topic :: Software Development :: Libraries :: Python Modules
+Requires: dnspython(>=1.6.0)
